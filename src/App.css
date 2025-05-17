@@ -1,0 +1,14 @@
+* {
+  /* margin: 0;
+  padding: 0; */
+  color: white;
+}
+
+body {
+  background-color: hsla(240, 7%, 3%, 0.935);
+}
+
+Header {
+  margin-top: 10px;
+  background-color: hsl(240, 100%, 2%);
+}
